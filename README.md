@@ -1,9 +1,9 @@
 Dev Chat App!!
-https://dev-chat-app-b02d4.web.app/
+https://dev-chat-app-b02d4.web.app/ \
 
-To see demo login with:
-Username: elon101
-Password: elon101
+To see demo login with:\
+Username: elon101\
+Password: elon101\
 
 Feel free to make your own account after trying the app out!
 
