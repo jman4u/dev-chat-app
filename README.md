@@ -1,4 +1,4 @@
-Dev Chat App!!
+Dev Chat Application
 
 Built with channels, direct messages, reactions and emojis, threads for replies, GIF's, channel and user searching, as well as embedded YouTube videos!
 
