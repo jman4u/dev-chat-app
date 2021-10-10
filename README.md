@@ -1,11 +1,4 @@
 Dev Chat App!!
-https://dev-chat-app-b02d4.web.app/
-
-To see demo login with:\
-Username: elon101\
-Password: elon101
-
-Feel free to make your own account after trying the app out!
 
 Built with channels, direct messages, reactions and emojis, threads for replies, GIF's, channel and user searching, as well as embedded YouTube videos!
 
